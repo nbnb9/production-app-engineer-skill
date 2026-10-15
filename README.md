@@ -131,6 +131,10 @@ production-app-engineer/
 - Multi-agent execution starts only when the user asks for delegation or the four-role workflow.
 - Production claims require proportional verification and clearly reported gaps.
 
+## License
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 nbnb9.
+
 ## Validation
 
 The skill is checked with Codex's bundled `quick_validate.py` validator. The entrypoint, UI metadata, and referenced guidance files are included in this repository with no unfinished placeholders.

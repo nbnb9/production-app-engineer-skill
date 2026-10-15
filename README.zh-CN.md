@@ -131,6 +131,10 @@ production-app-engineer/
 - 只有用户要求委派或四角色工作流时，才会启动多代理执行。
 - “生产就绪”必须有与风险相称的验证，并明确报告缺失项。
 
+## 开源许可证
+
+本项目采用 [MIT 许可证](LICENSE)。Copyright (c) 2026 nbnb9。
+
 ## 校验状态
 
 该 Skill 已通过 Codex 内置的 `quick_validate.py` 校验。仓库包含完整入口、UI 元数据和全部参考指南，不含未完成占位符。
