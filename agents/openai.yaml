@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production App Engineer"
+  short_description: "从架构到代码、重构、调试与性能优化的生产级工程工作流"
+  default_prompt: "Use $production-app-engineer to design and implement a production-ready MVP for my product."
